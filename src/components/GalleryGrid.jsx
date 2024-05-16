@@ -1,8 +1,8 @@
 const GalleryGrid = () => {
   return (
     <>
-     <div className=" bg-[url('https://i.pinimg.com/originals/80/eb/55/80eb55040287a9aad9aa160b8deafc57.jpg')] bg-contain  bg-repeat  mx-auto px-14 py-8 lg:px-16   md:py-24 ">
-        <div className="-m-1 flex flex-wrap md:-m-2">
+     <div className=" bg-[url('https://i.pinimg.com/originals/80/eb/55/80eb55040287a9aad9aa160b8deafc57.jpg')] h-screen w-screen  bg-cover  bg-no-repeat   px-16 md:px-16 sm:px-16 xl:px-16 py-8  md:py-24 ">
+        <div className="-m-1 flex flex-wrap md:-m-2 py-48 px-10 xl:mt-2 max-xl:px-12 max:py-4">
             <div className="flex w-1/3 py-8 flex-wrap">
                 <div className="w-full p-2 md:p-2">
                     <img 
