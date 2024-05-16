@@ -1,5 +1,6 @@
 import NavBar from "../components/NavBar";
 import GalleryGrid from "../components/GalleryGrid";
+
 const Gallery = () => {
   return (
     <>
